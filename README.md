@@ -13,7 +13,7 @@ git clone https://github.com/diyaverma1967/Zeta_Question-4.git
 cd Zeta_Question-4
 
 # 2. Set up Conda env
-conda create -n loan-api python=3.11 -y
+conda create -n Zeta_Question-4 python=3.11 -y
 conda activate Zeta_Question-4
 
 # 3. Start API
