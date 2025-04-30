@@ -1,4 +1,4 @@
-# Zeta_Question-4
+# Zeta_Question-4 : Rate-limitter
 
 **FastAPI** service for rate limiter functionality.
 
